@@ -1,0 +1,2 @@
+# JQuery-training
+jQuery Exercises 
